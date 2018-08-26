@@ -1,0 +1,46 @@
+{
+  "batches": [
+    {
+      "id": 1,
+      "name": "#1",
+      "notes": "The very first brave souls"
+    },
+    {
+      "id": 2,
+      "name": "#2",
+      "notes": "Something serious 2.0"
+    },
+    {
+      "id": 3,
+      "name": "#3",
+      "notes": "They did awesome"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "batchId": 1,
+      "name": "Erik Groenland"
+    },
+    {
+      "id": 2,
+      "batchId": 1,
+      "name": "Jan Visgraat"
+    },
+    {
+      "batchId": 2,
+      "name": "Jan Klaassen",
+      "id": 3
+    },
+    {
+      "title": "test new student",
+      "batchId": "2",
+      "id": 4
+    },
+    {
+      "name": "test product (actually a student)",
+      "batchId": "2",
+      "id": 5
+    }
+  ]
+}
